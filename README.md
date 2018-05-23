@@ -25,6 +25,16 @@ here's example of amzn-credential.json:
 ## add your credential file name into .gitignore
 If you use git, you are storngly adviced to make .gitignore file in order not to go public your credential infos.
 
+```
+# .gitignore
+# Created by https://www.gitignore.io
+
+### ignore self ###
+.gitignore
+
+### credential file ###
+amzn-credential.json
+```
 
 # Licence
 This software is released under the MIT License.
