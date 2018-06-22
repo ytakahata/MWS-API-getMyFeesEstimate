@@ -15,10 +15,10 @@ here's example of amzn-credential.json:
 
 ```
 {
-    'SELLER_ID': 'SELLER_ID',
-    'ACCESS_KEY_ID': 'ACCESS_KEY_ID',
-    'SECRET_KEY': 'SECRET_KEY',
-    'MARKETPLACE_ID': 'MARKETPLACE_ID',
+    'SELLER_ID': 'YOUR_SELLER_ID',
+    'ACCESS_KEY_ID': 'YOUR_ACCESS_KEY_ID',
+    'SECRET_KEY': 'YOUR_SECRET_KEY',
+    'MARKETPLACE_ID': 'YOUR_MARKETPLACE_ID',
 };
 ```
 
