@@ -38,3 +38,6 @@ amzn-credential.json
 
 # Licence
 This software is released under the MIT License.
+
+# Authors
+Yusuke Takahata(@sutaba_mac)
